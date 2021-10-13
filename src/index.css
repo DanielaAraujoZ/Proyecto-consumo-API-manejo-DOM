@@ -19,11 +19,18 @@ html{
 #paragraph{
     color: #44059C;
 }
-.p-2{
+.p-4{
     background: linear-gradient(to right, #f7951e73, #ffd00075);
     margin: 40px;
     border-radius: 10px;
     color: #380382;
+    font-weight: bolder;
+}
+.p-4:hover{
+    color: #EE4D2E;
+    font-weight: bolder;
+    font-size: 19px;
+
 }
 #img{
     box-shadow: 13px 11px 33px -1px rgba(255,201,143,1)
